@@ -1,2 +1,2 @@
-# Diabetes-Detection-Web-App
-Diabetes detection web app using ML techniques
+# Diabetes-Prediction-Web-App
+Diabetes prediction web app using ML techniques
