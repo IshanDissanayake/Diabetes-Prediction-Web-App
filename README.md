@@ -1,6 +1,6 @@
 # Diabetes-Prediction-Web-App
 ## Overview
-This is a simple web app built with Python, Streamlit, and Scikit-Learn to predict the likelihood of diabetes based on various health metrics. Users input their health information through 8 sliders representing factors such as glucose level, blood pressure, and BMI. The app then provides a prediction on whether the user is likely to have diabetes.
+This web application is built with Python, Streamlit, and Scikit-Learn to predict the likelihood of diabetes based on various health metrics. Users input their health information through 8 sliders representing factors such as glucose level, blood pressure, and BMI. The app then provides a prediction on whether the user is likely to have diabetes.
 
 ## Dependencies
 To run this app, you need the following packages installed:
